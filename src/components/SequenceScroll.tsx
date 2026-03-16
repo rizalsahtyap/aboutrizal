@@ -156,7 +156,7 @@ export default function SequenceScroll() {
               RizalSahtya<br />Pratama
             </h2>
             <p className="text-lg md:text-2xl font-manrope font-light tracking-wide text-white/80">
-              Still learning
+              STILL LEARNING
             </p>
           </motion.div>
 
