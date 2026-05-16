@@ -15,7 +15,7 @@ const songs = [
   { title: "Bitter Sweet Symphony", artist: "The Verve", image: "/hobbies/bss.jpg" },
   { title: "Let Down", artist: "Radiohead", image: "/hobbies/let-down.jpg" },
   { title: "The Man Who Can't Be Moved", artist: "The Script", image: "/hobbies/The Man Who Can't Be Moved.jpg" },
-  { title: "Everybody Wants To Rule The World", artist: "TTears For Fears", image: "/hobbies/Everybody Wants To Rule The World.jpg" },
+  { title: "Everybody Wants To Rule The World", artist: "Tears For Fears", image: "/hobbies/Everybody Wants To Rule The World.jpg" },
   { title: "Let It Happen", artist: "Tame Impala", image: "/hobbies/LetItHappen.jpg" },
 ];
 
