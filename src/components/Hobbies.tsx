@@ -4,9 +4,10 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
 
 const movies = [
-  { title: "The Dark Knight", year: "2008", image: "/hobbies/TheDarkKnight.jpg" },
+  { title: "Parasite", year: "2019", image: "/hobbies/Parasite.jpg" },
+  { title: "Arrival", year: "2016", image: "/hobbies/Arrival.jpg" },
   { title: "Whiplash", year: "2014", image: "/hobbies/whiplash.jpg" },
-  { title: "Zodiac", year: "2007", image: "/hobbies/zodiac.jpg" },
+  { title: "Nightcrawler", year: "2014", image: "/hobbies/Nightcrawler.jpg" },
 ];
 
 const songs = [
